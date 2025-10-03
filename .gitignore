@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Runtime / uploads locales
+runtime_data/
+runtime_uploads/
+
+# Archivos temporales de npm
+npm
+catalogo-proto@0.1.0
+
+# Logs
+*.log
